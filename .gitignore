@@ -1,0 +1,5 @@
+tasks/*
+templates/*
+!README.md
+.claude
+.env
